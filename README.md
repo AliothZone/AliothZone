@@ -2,6 +2,6 @@
 - 👀 I’m interested in **Linux kernel development** and **heterogeneous computing**. 
 - 🌱 I’m currently diving deep into **operating system optimizations**, **RISC-V architectures**, and **parallel computing frameworks**. 
 - 💞️ I’m looking to collaborate on **open-source kernel modules**, **system-level performance tuning**, and **heterogeneous computing frameworks**. 
-- 📫 Reach me via **[your email or other preferred method]**. 
+- 📫 Reach me via **[HicRhodus218@gmail.com]**. 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I enjoy exploring the intersection of hardware and software, and sometimes hacking on experimental kernel features for fun! 
